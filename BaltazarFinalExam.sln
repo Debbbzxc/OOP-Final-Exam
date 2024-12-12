@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaltazarFinalExam", "BaltazarFinalExam\BaltazarFinalExam.csproj", "{1EB9873F-AAB7-46D9-B297-5B568256BF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB9873F-AAB7-46D9-B297-5B568256BF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB9873F-AAB7-46D9-B297-5B568256BF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB9873F-AAB7-46D9-B297-5B568256BF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB9873F-AAB7-46D9-B297-5B568256BF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BFFB57B-978F-406C-B446-5DF6F84D49C9}
+	EndGlobalSection
+EndGlobal
