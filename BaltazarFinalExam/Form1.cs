@@ -59,9 +59,9 @@ namespace BaltazarFinalExam
         {
             txtCode.Text = dgvRegistration.CurrentRow.Cells[0].Value.ToString();
             txtCourseno.Text = dgvRegistration.CurrentRow.Cells[1].Value.ToString();
-            txtDescription.Text = dgvRegistration.CurrentRow.Cells[3].Value.ToString();
-            txtSchedule.Text = dgvRegistration.CurrentRow.Cells[4].Value.ToString();
-            txtRoom.Text = dgvRegistration.CurrentRow.Cells[5].Value.ToString();
+            txtDescription.Text = dgvRegistration.CurrentRow.Cells[2].Value.ToString();
+            txtSchedule.Text = dgvRegistration.CurrentRow.Cells[3].Value.ToString();
+            txtRoom.Text = dgvRegistration.CurrentRow.Cells[4].Value.ToString();
         }
     }
 }
